@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif; 
+    background-color: #f0f0f0; 
+    color: #393737; 
+}
+p {
+    line-height: 1.6; 
+}
+
+.error-boundary {
+    background-color: #f44336; 
+    color: white;
+    padding: 10px; 
+    border-radius: 5px; 
+    margin-top: 20px; 
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s;
+}
+nav a:hover {
+    text-decoration: underline; 
+}
+
+
